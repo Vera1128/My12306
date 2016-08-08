@@ -1,0 +1,64 @@
+body
+{
+	padding-left: 7px;
+	margin-left: 0px;
+	/*color: purple;*/
+	/*background-color: pink;*/
+}
+
+#header
+{
+	padding-left: 7px;
+	width: 100%;
+	height: 40px;
+}
+#menu
+{
+	padding-left: 7px;
+	width: 18%;
+	height: 400px;
+	/*background-color: gray;*/
+}
+#single_menu
+{
+	margin-left: 17px;
+	margin-top: 11px;
+	margin-bottom: 7px;
+	height: 34px;
+	/*width: */
+}
+#content
+{
+	padding-left: 7px;
+	width: 78%;
+	height: 800px;
+}
+#footer
+{
+	padding-left: 7px;
+	width: 100%;
+	height: 33px;
+}
+#search
+{
+	margin-top: 13px;
+}
+
+.box
+{
+	border: solid 1px gray; 
+	margin: 5px;
+}
+.fl
+{
+	float: left;
+}
+.fr
+{
+	float: right;
+}
+
+.cl
+{
+	clear: both;
+}

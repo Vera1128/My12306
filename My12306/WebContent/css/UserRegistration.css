@@ -1,0 +1,50 @@
+#page
+{	
+	margin-top:123px;
+	padding-left: 500px;
+	width: 70%;
+	height: 300px;
+	/*background:url(./b.png) no-repeat center top; */
+}
+#input_block
+{
+	maring-left: 13px;
+	width: 50%;
+	/*height: 500px;*/
+	align:center;
+}
+#single_input
+{
+	margin-left: 13px;
+	margin-top: 13px;
+	/*width: 30%;*/
+	/*height: 500px;*/
+	align:center;
+}
+#font_color
+{
+	color: #FF7E17;
+}
+.span_olor
+{
+	color: red;
+}
+
+.box
+{
+	/*border: solid 1px white; */
+	margin: 2px;
+}
+.fl
+{
+	float: left;
+}
+.fr
+{
+	float: right;
+}
+
+.cl
+{
+	clear: both;
+}

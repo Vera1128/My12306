@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/old/Login.html=UTF-8
+encoding//src/com/neuedu/my12306/usermgr/servlet/UserServlet.java=UTF-8
+encoding//src/com/neuedu/my12306/usermgr/test/TesProvinceService.java=UTF-8
+encoding//src/com/neuedu/my12306/usermgr/test/TestCertTypeService.java=UTF-8
+encoding//src/com/neuedu/my12306/usermgr/test/TestCityService.java=UTF-8
+encoding//src/com/neuedu/my12306/usermgr/test/TestUserService.java=UTF-8
+encoding//src/com/neuedu/my12306/usermgr/test/TestUserTypeService.java=UTF-8
+encoding/<project>=UTF-8

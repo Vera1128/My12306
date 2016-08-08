@@ -1,0 +1,52 @@
+#page
+{	
+	padding-left: 70px;
+	width: 90%;
+	height: 300px;
+	/*background:url(./b.png) no-repeat center top; */
+}
+#input
+{
+	maring-left: 13px;
+	margin-top: 113px;
+	width: 70%;
+	/*height: 500px;*/
+	align:center;
+}
+#single_input
+{
+	margin-left: 13px;
+	margin-top: 17px;
+	width: 50%;
+	/*height: 500px;*/
+	align:center;
+}
+
+.image
+{
+	background:url(b.png) no-repeat 4px 5px
+}
+
+.font_color
+{
+	color: #B64888;
+}
+
+.box
+{
+	/*border: solid 1px white; */
+	margin: 2px;
+}
+.fl
+{
+	float: left;
+}
+.fr
+{
+	float: right;
+}
+
+.cl
+{
+	clear: both;
+}
